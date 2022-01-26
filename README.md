@@ -1,5 +1,5 @@
 # HelloHeart
-Reacr and NodeJS project sturcture with Javascript and Express.
+React and NodeJS project sturcture with Javascript and Express.
 
 Installation
 
